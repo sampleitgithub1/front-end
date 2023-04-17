@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hhhhhhh
+=======
+modified text
+>>>>>>> refs/remotes/origin/main
